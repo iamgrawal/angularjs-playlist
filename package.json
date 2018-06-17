@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-playlist",
+  "version": "1.0.0",
+  "description": "AngularJs app for practice purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgrawal/angularjs-playlist.git"
+  },
+  "keywords": [
+    "angularjs",
+    "practice"
+  ],
+  "author": "iamgrawal (Gaurav Rawal)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgrawal/angularjs-playlist/issues"
+  },
+  "homepage": "https://github.com/iamgrawal/angularjs-playlist#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
